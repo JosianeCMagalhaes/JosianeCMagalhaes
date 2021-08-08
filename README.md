@@ -1,19 +1,18 @@
 ### Hi! I'm Josiane Magalhães!
-<li>💻 I'm studying to become a front-end web developer</li>
-<br>
-<br>
-### I'm currently learning:</p>
+ <li>💻 I'm studying to become a front-end web developer</li>
+ <br>
+ <br>
+I'm currently learning:</p>
+ <div style="display: inline_block"><br>
  <img align="center" alt="Josi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Josi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Josi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
 <div>
   <a href="https://github.com/JosianeCMagalhaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=radical"/>
   </div>
-  <div style="display: inline_block"><br>
   <img align="right" alt="Josi-gif" src="https://cdn.discordapp.com/attachments/847563264942145587/873741459986194442/Webp.net-gifmaker.gif">
 </div>
   
