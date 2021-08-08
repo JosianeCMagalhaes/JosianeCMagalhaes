@@ -1,4 +1,4 @@
-### Hi! I'm Josiane Magalhães!
+### Hi! I'm Josiane Magalhães
  <li>I'm studying to become a Front-end web developer</li>
  <br>
  <div style="display: inline_block">
