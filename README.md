@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=radical"/>
   </div>
-  <img align="right" alt="Josi-gif" src="https://cdn.discordapp.com/attachments/847563264942145587/873741459986194442/Webp.net-gifmaker.gif">
+  <img align="right" alt="Josi-gif" src="https://cdn.discordapp.com/attachments/715965415058178109/881037022968578088/Webp.net-gifmaker.gif">
 </div>
   
   ##
