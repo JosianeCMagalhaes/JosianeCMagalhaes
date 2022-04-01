@@ -13,15 +13,16 @@
   <img align="center" alt="Josi-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Josi-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Josi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </li>
-  <br>
-<div>
+ </li><br/ >
+ </div>
+ <div>
   <a href="https://github.com/JosianeCMagalhaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=radical"/>
-  </div>
-  <img align="right" alt="Josi-gif" src="https://cdn.discordapp.com/attachments/715965415058178109/915741904338055188/Webp.net-gifmaker.gif">
-</div>
+ </div>
+ <div>
+  <img align="right" alt="Josi-gif" src="https://user-images.githubusercontent.com/62856269/161313093-c44b1b00-45bf-48fe-add4-7068ddd95772.gif">
+ </div>
   
   ##
 
