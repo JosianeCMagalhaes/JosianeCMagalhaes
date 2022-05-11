@@ -1,8 +1,7 @@
 ### Hi! I'm Josiane Magalhães
- <li>I'm studying to become a Front-end web developer</li>
  <br>
  <div style="display: inline_block">
- <li>I'm currently learning:
+ <li>I'm currently learning:<br /><br />
   <img align="center" alt="Josi-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Josi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
