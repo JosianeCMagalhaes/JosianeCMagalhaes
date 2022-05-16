@@ -16,8 +16,7 @@
  </div>
  <div>
   <a href="https://github.com/JosianeCMagalhaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><br /><br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JosianeCMagalhaes&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
  </div>
   
   ##
