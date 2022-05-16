@@ -1,7 +1,9 @@
 ### Hi! I'm Josiane Magalhães
  <br>
- <div style="display: inline_block">
- <li>I'm currently learning:<br /><br />
+ <div>
+ <li>I'm currently learning:</li>
+ </div>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Josi-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Josi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -12,11 +14,14 @@
   <img align="center" alt="Josi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Josi-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Josi-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
- </li><br/ >
  </div>
+ 
+  ##
+ 
  <div>
   <a href="https://github.com/JosianeCMagalhaes">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JosianeCMagalhaes&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br /><br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=dracula"/>
  </div>
   
   ##
