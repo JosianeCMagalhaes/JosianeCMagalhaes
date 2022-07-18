@@ -1,4 +1,4 @@
-### Hi! I'm Josiane Magalhães
+### I'm Josiane Magalhães
 
 <div>
   <a href="https://github.com/JosianeCMagalhaes">
