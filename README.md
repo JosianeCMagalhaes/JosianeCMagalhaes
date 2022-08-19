@@ -3,7 +3,9 @@
 <div>
   <a href="https://github.com/JosianeCMagalhaes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=omni"/><br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=omni"/>
+ </div>
+ <div>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=7&theme=omni"/>
  </div>
 
  <div style="display: inline_block"><br>
