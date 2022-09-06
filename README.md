@@ -1,9 +1,9 @@
 ### Hey! Welcome 👩🏻‍💻
-💻 Systems Analyst and Developer
+💻 Analista e Desenvolvedora de Sistemas
 
-🦄 PyLadies Sorocaba team member
+🦄 Integrante de equipe do PyLadies Sorocaba
 
-💙 Participant of the 5th edition of Luiza < Code >
+💙 Participante da 5ª edição do Luiza <Code>
 
 <div>
   <a href="https://github.com/JosianeCMagalhaes">
