@@ -1,4 +1,9 @@
-### Josiane Magalhães
+### Hey! Welcome 👩🏻‍💻
+💻 Systems Analyst and Developer
+
+🦄 PyLadies Sorocaba team member
+
+💙 Participant of the 5th edition of Luiza < Code >
 
 <div>
   <a href="https://github.com/JosianeCMagalhaes">
