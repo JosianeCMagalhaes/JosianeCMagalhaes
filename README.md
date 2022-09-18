@@ -1,7 +1,7 @@
 ## Hey! Welcome 👩🏻‍💻
 💻 Analista e Desenvolvedora de Sistemas
 
-👩🏻‍🏫 Passionate about teaching
+👩🏻‍🏫 Apaixonada por ensinar
 
 🦄 Integrante de equipe do PyLadies Sorocaba
 
