@@ -1,18 +1,19 @@
-## Hey! Welcome 👩🏻‍💻
-💻 Analista e Desenvolvedora de Sistemas
+## Hey! Welcome 
+<div>
 
-👩🏻‍🏫 Apaixonada por ensinar
+- 💻 Analista e Desenvolvedora de Sistemas
 
-🦄 Integrante de equipe do PyLadies Sorocaba
+- 👩🏻‍🏫 Apaixonada por ensinar
 
-💙 Participante da 5ª edição do Luiza < Code >
+- 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba
+
+- 💙 Participante da 5ª edição do Luiza < Code >
 <br />
-
+</div>
 <!-- GITHUB STATUS -->
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=10&theme=github_dark"/>
-
 <!-- TEMAS: dark, radical, tokyonight, highcontrast, dracula, github_dark, merko, gruvbox, onedark, omni, aura_dark -->
 </div>
 
