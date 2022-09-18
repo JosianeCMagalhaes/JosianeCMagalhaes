@@ -1,6 +1,8 @@
 ## Hey! Welcome 👩🏻‍💻
 💻 Analista e Desenvolvedora de Sistemas
 
+👩🏻‍🏫 Passionate about teaching
+
 🦄 Integrante de equipe do PyLadies Sorocaba
 
 💙 Participante da 5ª edição do Luiza < Code >
