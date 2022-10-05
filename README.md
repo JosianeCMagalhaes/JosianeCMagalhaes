@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=header"/>
+
 <h1 align="center">Hey! Welcome</h1>
 <h3 align="center">I love learning new technologies and being constantly evolving.</h3>
 
@@ -29,6 +31,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=JosianeCMagalhaes)
 </div>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JosianeCMagalhaes&bg_color=0d1117&color=3399ff&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- TECNOLOGIAS -->
 ## Languages and Tools
 
@@ -49,4 +53,4 @@
 
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=footer"/>
