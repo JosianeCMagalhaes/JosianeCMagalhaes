@@ -48,3 +48,5 @@
   ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
