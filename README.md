@@ -12,6 +12,8 @@
 - 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba
 
 - 💙 Participante da 5ª edição do Luiza < Code >
+
+- 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.
 <br />
 </div>
 
