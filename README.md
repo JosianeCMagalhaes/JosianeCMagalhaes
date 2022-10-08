@@ -15,10 +15,6 @@
 <br />
 </div>
 
-<div>
-<em>"Ain't about how fast I get there, ain't about what's waiting on the other side, it's the climb."
-</div>
-
 <!-- GITHUB STATUS -->
 ## Github Stats
 <div align="center">
