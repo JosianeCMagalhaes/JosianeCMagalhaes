@@ -20,8 +20,8 @@
 <!-- GITHUB STATUS -->
 ## Github Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=18&theme=github_dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readjme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=github_dark&include_all_commits=true"/> <br />
+  <img height="180em" src="https://github-readjme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=18&theme=github_dark&include_all_commits=true"/>
 <!-- TEMAS: dark, radical, tokyonight, highcontrast, dracula, github_dark, merko, gruvbox, onedark, omni, aura_dark -->
 </div>
 
