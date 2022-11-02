@@ -16,6 +16,8 @@
 - 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.
 <br />
 </div>
+  
+<img width=18% src="https://user-images.githubusercontent.com/62856269/199364542-2f206ef0-a3ea-4a58-9658-5e8e3397d5b7.png"/>
 
 <!-- GITHUB STATUS -->
 ## Github Stats
