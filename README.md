@@ -7,8 +7,6 @@
 
 - 💻 Analista e Desenvolvedora de Sistemas
 
-- 👩🏻‍🏫 Apaixonada por ensinar
-
 - 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba
 
 - 💙 Participante da 5ª edição do Luiza < Code >
