@@ -56,7 +56,7 @@
   <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ubuntu" title="Ubuntu" height="27" width="27" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
-  <img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62856269/206440962-acf95e45-4501-4b93-a3ea-470bc3e77a9d.png">
+  <!--img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62856269/206440962-acf95e45-4501-4b93-a3ea-470bc3e77a9d.png"-->
 </div>
 
 ##
