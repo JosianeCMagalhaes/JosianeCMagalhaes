@@ -74,18 +74,7 @@
 
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JosianeCMagalhaes&bg_color=0d1117&color=3399ff&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-<!-- TECNOLOGIAS -->
-## Languages and Tools
 
-```Python
- class tech_info:
-   languages = ["Python", "JavaScript", "C", "Java", "Apex", "C#"]
-   framework = ["FastAPI", "Django"]
-   database = ["SQL Server", "MySQL", "NoSQL", "PostgreSQL", "MongoDB"]
-   tools = ["VS Code", "Postman"]
-   versioning = ["GIT"]
-   others: ["Docker"]
-```
 
 ## 
 <div>
