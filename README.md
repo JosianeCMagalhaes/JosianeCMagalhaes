@@ -63,8 +63,9 @@
 <!-- REDES SOCIAIS -->
 <div align="left">
   <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/josianecmagalhaes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JosianeCMagalhaes)
