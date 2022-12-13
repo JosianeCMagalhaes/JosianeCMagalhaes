@@ -38,6 +38,13 @@
   <img align="center" alt="GitLab" title="GitLab" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="npm" title="npm" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Yarn" title="Yarn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
+  <img align="center" alt="Heroku" title="Heroku" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
+  <img align="center" alt="Docker" title="Docker" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Kubernetes" title="Kubernetes" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="Postman" title="Postman" height="27" width="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  <img align="center" alt="Insomnia" title="Insomnia" height="27" width="27" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg">
+  <img align="center" alt="Linux" title="Linux" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Ubuntu" title="Ubuntu" height="27" width="27" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
 </div>
   
 #### :computer: Front-End Development
@@ -47,7 +54,6 @@
   <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
 </div>
   
 #### :computer: Back-End Development
@@ -63,13 +69,11 @@
   <img align="center" alt="Django" title="Django" height="56" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" title="Flask" height="56" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  
 </div>
   
 #### :test_tube: Testing
 <div style="display: inline_block">
   <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  
 </div>
   
 <!--div style="display: inline_block">
@@ -97,8 +101,8 @@
   <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ubuntu" title="Ubuntu" height="27" width="27" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
-  <!--img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62856269/206440962-acf95e45-4501-4b93-a3ea-470bc3e77a9d.png"-->
-</div>
+  <img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62856269/206440962-acf95e45-4501-4b93-a3ea-470bc3e77a9d.png">
+</div-->
 
 ##
 
@@ -118,7 +122,8 @@
 
 
 
-## 
+##
+
 <div>
   
   ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
@@ -126,6 +131,5 @@
 </div>
 
 <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=footer"/-->
-
 
 
