@@ -71,7 +71,7 @@
   <img align="center" alt="C" title="C" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="MySQL" title="MySQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="FastAPI" title="FastAPI" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="FastAPI" title="FastAPI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Django" title="Django" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" title="Flask" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
