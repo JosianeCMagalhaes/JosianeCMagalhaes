@@ -34,6 +34,7 @@
 #### Tecnologias
 #### :hammer_and_wrench: Tools and environments
 <div style="display: inline_block">
+
   <img align="center" alt="Git" title="Git" height="27" width="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="GitLab" title="GitLab" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="npm" title="npm" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
@@ -45,19 +46,23 @@
   <img align="center" alt="Insomnia" title="Insomnia" height="27" width="27" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg">
   <img align="center" alt="Linux" title="Linux" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ubuntu" title="Ubuntu" height="27" width="27" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
+
 </div>
   
 #### :computer: Front-End Development
 <div style="display: inline_block">
+
   <img align="center" alt="React" title="React" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </div>
   
 #### :computer: Back-End Development
 <div style="display: inline_block">
+
   <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node.js" title="Node.js" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" title="NestJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
@@ -69,11 +74,14 @@
   <img align="center" alt="Django" title="Django" height="56" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" title="Flask" height="56" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+
 </div>
   
 #### :test_tube: Testing
 <div style="display: inline_block">
+
   <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+
 </div>
   
 <!--div style="display: inline_block">
