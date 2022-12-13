@@ -52,12 +52,17 @@
   
 #### :computer: Back-End Development
 <div style="display: inline_block">
+  <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node.js" title="Node.js" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" title="NestJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
   <img align="center" alt="Redis" title="Redis" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Prisma" title="Prisma" height="27" width="27" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
-  
+  <img align="center" alt="C" title="C" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="FastAPI" title="FastAPI" height="81" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="Django" title="Django" height="56" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Flask" title="Flask" height="56" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   
 </div>
   
