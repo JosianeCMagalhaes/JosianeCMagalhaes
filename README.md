@@ -5,11 +5,11 @@
 
 <div>
 
-- 💻 Desenvolvedora Web Full Stack;
+- 💻 Desenvolvedora Web Full Stack
 
-- 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba;
+- 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba
 
-- 💙 Participante da 5ª edição do Luiza < Code >;
+- 💙 Participante da 5ª edição do Luiza < Code >
 
 - 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.
 <br />
