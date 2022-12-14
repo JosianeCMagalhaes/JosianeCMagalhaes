@@ -33,7 +33,7 @@
 <!-- TECNOLOGIAS -->
 #### Tecnologias
 #### :hammer_and_wrench: Tools and environments
-<div style="display: inline_block">
+<div style:"display: inline-block; height: 27px; overflow: hidden">
 
   <img align="center" alt="Git" title="Git" height="27" width="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="GitLab" title="GitLab" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
@@ -50,9 +50,9 @@
 </div>
   
 #### :computer: Front-End Development
-<div style="display: inline_block">
+<div style:"display: inline-block; height: 27px; overflow: hidden">
   
-  <img align="center" alt="React" title="React" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" title="React" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -61,25 +61,25 @@
 </div>
   
 #### :computer: Back-End Development
-<div style="display: inline_block">
+<div style:"display: inline-block; height: 27px; overflow: hidden">
 
   <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node.js" title="Node.js" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="NestJS" title="NestJS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
+  <img align="center" alt="NestJS" title="NestJS" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
   <img align="center" alt="Redis" title="Redis" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
   <img align="center" alt="Prisma" title="Prisma" height="27" width="27" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
   <img align="center" alt="C" title="C" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="MySQL" title="MySQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="FastAPI" title="FastAPI" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
-  <img align="center" alt="Django" title="Django" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Flask" title="Flask" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="FastAPI" title="FastAPI" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="Django" title="Django" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Flask" title="Flask" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
 
 </div>
   
 #### :test_tube: Testing
-<div style="display: inline_block">
+<div style:"display: inline-block; height: 27px; overflow: hidden">
 
   <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 
