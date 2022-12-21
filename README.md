@@ -69,6 +69,8 @@
   <img align="center" alt="Redis" title="Redis" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
   <img align="center" alt="Prisma" title="Prisma" height="27" width="27" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4">
   <img align="center" alt="C" title="C" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" title="Java" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring Boot" title="Spring Boot" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="MySQL" title="MySQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
