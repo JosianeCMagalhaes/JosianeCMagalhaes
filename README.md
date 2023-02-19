@@ -1,6 +1,6 @@
 <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=header"/-->
 
-## Hey! Welcome
+<!--## Hey! Welcome
 ### I love learning new technologies and being constantly evolving.</h3>
 
 <div>
@@ -13,7 +13,7 @@
 
 - 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.
 <br />
-</div>
+<--/div>
   
 <!--img alt="Pythocat" width=12% src="https://user-images.githubusercontent.com/62856269/199364542-2f206ef0-a3ea-4a58-9658-5e8e3397d5b7.png"/-->
 
