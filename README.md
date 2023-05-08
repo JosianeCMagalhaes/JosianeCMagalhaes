@@ -31,7 +31,7 @@
 ##
 
 <!-- TECNOLOGIAS -->
-#### Tecnologias
+<!--#### Tecnologias
 #### :hammer_and_wrench: Tools and environments
 <div style:"display: inline-block; height: 27px; overflow: hidden">
 
@@ -45,22 +45,22 @@
   <img align="center" alt="Postman" title="Postman" height="27" width="27" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Insomnia" title="Insomnia" height="27" width="27" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg">
   <img align="center" alt="Linux" title="Linux" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ubuntu" title="Ubuntu" height="27" width="27" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">
+  <img align="center" alt="Ubuntu" title="Ubuntu" height="27" width="27" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg">-->
 
 </div>
   
-#### :computer: Front-End Development
+<!--#### :computer: Front-End Development
 <div style:"display: inline-block; height: 27px; overflow: hidden">
   
   <img align="center" alt="React" title="React" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" title="TypeScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" title="HTML" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   
 </div>
   
-#### :computer: Back-End Development
+<!--#### :computer: Back-End Development
 <div style:"display: inline-block; height: 27px; overflow: hidden">
 
   <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -76,14 +76,14 @@
   <img align="center" alt="MongoDB" title="MongoDB" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="FastAPI" title="FastAPI" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Django" title="Django" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Flask" title="Flask" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Flask" title="Flask" height="54" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">-->
 
 </div>
   
-#### :test_tube: Testing
+<!--#### :test_tube: Testing
 <div style:"display: inline-block; height: 27px; overflow: hidden">
 
-  <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">-->
 
 </div>
   
@@ -118,13 +118,13 @@
 ##
 
 <!-- REDES SOCIAIS -->
-<div align="left">
+<!--<div align="left">
   <a href="https://josianecmagalhaes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white&color=blueviolet" alt="portfolio" /></a>
   <a href="https://www.linkedin.com/in/josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/josianecmagalhaes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/20316593/josiane-magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/20316593/josiane-magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>-->
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JosianeCMagalhaes)
