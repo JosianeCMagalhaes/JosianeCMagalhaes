@@ -31,7 +31,7 @@
 ##
 
 <!-- TECNOLOGIAS -->
-#### Tecnologias
+<!--#### Tecnologias
 #### :hammer_and_wrench: Tools and environments
 <div style:"display: inline-block; height: 27px; overflow: hidden">
 
@@ -86,7 +86,7 @@
   <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Pytest" title="Pytest" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
 
-</div>
+</div-->
   
 <!--div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
