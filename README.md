@@ -133,11 +133,11 @@
   <a href="https://stackoverflow.com/users/20316593/josiane-magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div-->
 
-<!--div>
+<div>
   
-![](https://visitor-badge.glitch.me/badge?page_id=JosianeCMagalhaes)
+![](https://komarev.com/ghpvc/?username=JosianeCMagalhaes&color=3399FF)
   
-</div-->
+</div>
 
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JosianeCMagalhaes&bg_color=0d1117&color=3399ff&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
