@@ -1,11 +1,11 @@
 <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=header"/-->
 
 <!--## Hey! Welcome
-### I love learning new technologies and being constantly evolving.</h3>
+### I love learning new technologies and being constantly evolving.</h3-->
 
-<div>
+<!--div>
 
-- 💻 Desenvolvedora Web Full Stack
+- 💻 Desenvolvedora Web Full Stack Python
 
 - 👩🏻‍💻 Integrante de equipe do PyLadies Sorocaba
 
@@ -13,7 +13,7 @@
 
 - 💬 Busco sempre aprender e motivar pessoas, principalmente mulheres, a ingressar na área da tecnologia.
 <br />
-<--/div>
+</div-->
   
 <!--img alt="Pythocat" width=12% src="https://user-images.githubusercontent.com/62856269/199364542-2f206ef0-a3ea-4a58-9658-5e8e3397d5b7.png"/-->
 
@@ -86,9 +86,9 @@
   <img align="center" alt="Jest" title="Jest" height="27" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Pytest" title="Pytest" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
 
-</div-->
+</div>
   
-<!--div style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="27" width="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" title="Django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Flask" title="Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
@@ -122,20 +122,22 @@
 ##
 
 <!-- REDES SOCIAIS -->
-<!--div align="left">
-  <a href="https://josianecmagalhaes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white&color=blueviolet" alt="portfolio" /></a>
+<div align="left">
   <a href="https://www.linkedin.com/in/josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<!-- div align="left">
+  <a href="https://josianecmagalhaes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white&color=blueviolet" alt="portfolio" /></a>
   <a href="https://medium.com/@josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/josianecmagalhaes" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/20316593/josiane-magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div-->
 
-<div>
+<!--div>
   
 ![](https://visitor-badge.glitch.me/badge?page_id=JosianeCMagalhaes)
   
-</div>
+</div-->
 
 <!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JosianeCMagalhaes&bg_color=0d1117&color=3399ff&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
