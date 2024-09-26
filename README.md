@@ -125,6 +125,12 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.hackerrank.com/profile/josianemagalhaes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank logo"  />
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/833214" target="_blank">
+    <img src="https://hermes.dio.me/articles/cover/6648c9da-4a0a-4f72-9bea-99a45110b117.png" height="35" alt="hackerrank logo"  />
+  </a>
 </div>
 <!-- div align="left">
   <a href="https://josianecmagalhaes.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white&color=blueviolet" alt="portfolio" /></a>
