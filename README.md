@@ -20,15 +20,15 @@
 ##
 
 <!-- GITHUB STATS -->
-#### GitHub Stats
+<!--#### GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosianeCMagalhaes&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeCMagalhaes&layout=compact&langs_count=18&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JosianeCMagalhaes&theme=tokyonight"/>
 <!-- TEMAS: github_dark, dark, radical, tokyonight, highcontrast, dracula, merko, gruvbox, onedark, omni, aura_dark -->
-</div>
+<!--</div>-->
 
-##
+<!--##-->
 
 <!-- TECNOLOGIAS -->
 <!--#### Tecnologias
@@ -119,10 +119,10 @@
   <img align="right" alt="Josi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/62856269/206440962-acf95e45-4501-4b93-a3ea-470bc3e77a9d.png">
 </div-->
 
-##
+<!--##-->
 
 <!-- REDES SOCIAIS -->
-<div align="left">
+<!--<div align="left">
   <a href="https://www.linkedin.com/in/josianemagalhaes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="mailto:josymagalhaes18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href="https://www.instagram.com/ajosimagalhaes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>-->    
@@ -140,7 +140,7 @@
   <a href="https://stackoverflow.com/users/20316593/josiane-magalhaes" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div-->
 
-<div>
+<!--div->
   
 ![](https://komarev.com/ghpvc/?username=JosianeCMagalhaes&color=3399FF)
   
@@ -150,14 +150,80 @@
 
 
 
-##
+<!--##-->
+
+<!--div>
+  
+  ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
+
+</div-->
+
+<!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=footer"/-->
+
+## 👩‍💻 Quem sou eu 👩‍💻
+
+Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Elixir**, **Python**, **Data Science**, e **Machine Learning**.
+
+## 🗂️ O que você encontra no meu Github 🗂️
+
+🚀 Projetos Front-End e Back-End  
+🖥️ Aplicações Full-Stack  
+📚 Estudos e exemplos práticos de algoritmos  
+💡 Projetos de integração e automação  
+📊 Experimentos em Data Science e Machine Learning  
 
 <div>
+## 🌟 Tecnologias que utilizo frequentemente 🌟
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</div>
+
+## 🛠️ Tecnologias que já explorei 🛠️
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## 📊 Status de atividades no GitHub 📊
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosianeCMagalhaes&theme=nord_dark" alt="Status do Github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JosianeCMagalhaes&theme=nord&column=6&margin-w=10" alt="Troféus do Github" />
+</div>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/josianemagalhaes/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="mailto:josymagalhaes18@gmail.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JosianeCMagalhaes&color=blue&style=flat-square" alt="Contador de visitas" />
+</p>
+
+<div align="center">
   
   ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=footer"/-->
+
 
 
