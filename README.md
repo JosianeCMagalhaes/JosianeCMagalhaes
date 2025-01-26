@@ -172,7 +172,6 @@ Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada p
 💡 Projetos de integração e automação  
 📊 Experimentos em Data Science e Machine Learning  
 
-<div>
 ## 🌟 Tecnologias que utilizo frequentemente 🌟
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
