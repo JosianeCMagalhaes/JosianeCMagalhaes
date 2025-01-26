@@ -160,19 +160,97 @@
 
 <!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33a0ff&height=120&section=footer"/-->
 
-## 👩‍💻 Quem sou eu 👩‍💻
+## Hi there, Eu sou Josiane Magalhães! 👩‍💻
 
 Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Elixir**, **Python**, **Data Science**, e **Machine Learning**.
 
-## 🗂️ O que você encontra no meu Github 🗂️
+## 🗂️ O que você encontra no meu Github
 
 🚀 Projetos Front-End e Back-End  
 🖥️ Aplicações Full-Stack  
 📚 Estudos e exemplos práticos de algoritmos  
 💡 Projetos de integração e automação  
-📊 Experimentos em Data Science e Machine Learning  
+📊 Experimentos em Data Science e Machine Learning
 
-## 🌟 Tecnologias que utilizo frequentemente 🌟
+<!--Linguagem e Ferramentas:
+
+<p align="left"> 
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" alt="vercel" width="40" height="40" />
+  </a>
+</p-->
+
+## Portfólio
+
+✨ Alguns projetos interessantes que desenvolvi recentemente:
+
+<details open>
+  <summary><h3>Front-End</h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [JS Game 🎮](https://github.com/seu-repositorio/js-game) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</details>
+
+
+<!--details open>
+  <summary><h3>Full Stack </h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [](https://github.com/) | Node.js + Express + Prisma + PostgresSql + Docker + Next.JS + SASS
+  | [](https://github.com/) | Node.js + Express + Prisma + PostgresSql + Docker + Reactjs
+</details--> 
+
+<!--details open>
+  <summary><h3>React</h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [](https://github.com/) | React + Typescript + Styled-Components
+  | [](https://github.com/) | React + Typescript + Styled-Components
+  | [](https://github.com/) | React + Redux + Typescript + Styled-Components
+  | [](https://github.com/) | React + Typescript + Styled-Components
+  | [](https://github.com/) | React + Typescript + Styled-Components
+  | [](https://github.com/) | React + Typescript + Styled-Components
+  | [](https://github.com/) | React + React Hooks
+  | [](https://github.com/) | React + Typescript + Styled-Components
+  
+</details-->  
+
+
+<!--details open>
+  <summary><h3>Node</h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [](https://github.com/) |Node + Expres + Prisma 
+  | [](https://github.com/) | Node + Stubs + Sinon + Spies
+  | [](https://github.com/) | Node + TyORM + Express
+  
+</details--> 
+
+<!--details open>
+  <summary><h3>Python</h3></summary>
+  
+  | Nome do Projeto | Linguagens |
+  |------|-------|
+  | [](https://github.com/) | Python
+  | [](https://github.com/) | Python
+  | [](https://github.com/) | Python
+
+</details-->  
+
+<!--## 🌟 Tecnologias que utilizo frequentemente 🌟
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -191,7 +269,7 @@ Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada p
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) -->
 
 ## 📊 Status de atividades no GitHub 📊
 
@@ -222,7 +300,5 @@ Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada p
   ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
 
 
