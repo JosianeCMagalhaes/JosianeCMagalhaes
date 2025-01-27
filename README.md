@@ -191,7 +191,7 @@ Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada p
 
 ## Portfólio
 
-✨ Alguns projetos interessantes que desenvolvi recentemente:
+✨ Alguns projetos interessantes que estou desenvolvendo recentemente:
 
 <details open>
   <summary><h3>Front-End</h3></summary>
