@@ -162,7 +162,7 @@
 
 ## Hi there, Eu sou Josiane Magalhães! 👩‍💻
 
-Olá! Meu nome é **Josiane Magalhães**, desenvolvedora Full Stack apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Elixir**, **Python**, **Data Science**, e **Machine Learning**.
+Desenvolvedora Full Stack apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Elixir**, **Python**, **Data Science**, e **Machine Learning**.
 
 ## 🗂️ O que você encontra no meu Github
 
