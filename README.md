@@ -2,6 +2,7 @@
 
 **Analista e Desenvolvedora Oracle APEX** e **Desenvolvedora Full Stack** apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Elixir**, **Python**, **Data Science** e **Machine Learning**.
 
+> O aprendizado é contínuo e sempre haverá um próximo nível.
 
 ## 🗂️ O que você encontra no meu Github
 
