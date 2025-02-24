@@ -25,12 +25,12 @@
   | **[Challenge Amigo Secreto 🎁](https://github.com/JosianeCMagalhaes/challenge-amigo-secreto)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
   | **[Streaming de Música 🎶](https://github.com/JosianeCMagalhaes/streaming-de-musica)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
   | **[Portfólio 👩‍💻](https://github.com/JosianeCMagalhaes/portfolio)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-  | **[NextAuth Structure 🔒](https://github.com/JosianeCMagalhaes/next-auth-structure)** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  | **[Elevador 🏢](https://github.com/JosianeCMagalhaes/elevador)** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+  <!--| **[NextAuth Structure 🔒](https://github.com/JosianeCMagalhaes/next-auth-structure)** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  | **[Elevador 🏢](https://github.com/JosianeCMagalhaes/elevador)** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |-->
 
 </details>
 
-<details open>  
+<!--details open>  
   <summary><h3>Back-End</h3></summary>  
   
   | Nome do Projeto | Linguagens e Tecnologias |
@@ -54,7 +54,7 @@
   | **[App Mobile + REST API 📱](https://github.com/JosianeCMagalhaes/app-mobile-rest-api)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-DRF-092E20?style=flat-square&logo=django&logoColor=white) ![Flet](https://img.shields.io/badge/-Flet-009CFF?style=flat-square&logo=flet&logoColor=white) |
   | **[Kino 🎬](https://github.com/JosianeCMagalhaes/kino)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
 
-  </details>
+  </details-->
 
 ## 📊 Status de atividades no GitHub 📊
 
