@@ -43,18 +43,19 @@
   | **[Twix 🌐](https://github.com/JosianeCMagalhaes/twix)** | ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Phoenix](https://img.shields.io/badge/-Phoenix-FF6600?style=flat-square&logo=phoenix&logoColor=white) ![Absinthe](https://img.shields.io/badge/-Absinthe-2F855A?style=flat-square) ![Subscriptions](https://img.shields.io/badge/-Subscriptions-FF4500?style=flat-square) ![Ecto](https://img.shields.io/badge/-Ecto-007ACC?style=flat-square) ![LiveView](https://img.shields.io/badge/-LiveView-005F87?style=flat-square) ![Fly.io](https://img.shields.io/badge/-Fly.io-008ECC?style=flat-square&logo=flydotio&logoColor=white)
   | **[Sorteio 🎲](https://github.com/JosianeCMagalhaes/sorteio)** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
   
-</details>
+</details-->
 
 <details open>  
   <summary><h3>Full Stack</h3></summary>  
   
   | Nome do Projeto | Linguagens e Tecnologias |
   |------|-------|
-  | **[Aplicação Web com Python e Django 🌐](https://github.com/JosianeCMagalhaes/aplicacao-web-python-django)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+  | **[Portfólio Full Stack + Agentes de IA 💻🤖](https://github.com/JosianeCMagalhaes/portfolio-josi)** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![n8n](https://img.shields.io/badge/n8n-0B60AD?style=flat-square&logo=n8n&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+  <!--| **[Aplicação Web com Python e Django 🌐](https://github.com/JosianeCMagalhaes/aplicacao-web-python-django)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
   | **[App Mobile + REST API 📱](https://github.com/JosianeCMagalhaes/app-mobile-rest-api)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-DRF-092E20?style=flat-square&logo=django&logoColor=white) ![Flet](https://img.shields.io/badge/-Flet-009CFF?style=flat-square&logo=flet&logoColor=white) |
-  | **[Kino 🎬](https://github.com/JosianeCMagalhaes/kino)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+  | **[Kino 🎬](https://github.com/JosianeCMagalhaes/kino)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |-->
 
-  </details-->
+  </details>
 
 ## 📊 Status de atividades no GitHub 📊
 
