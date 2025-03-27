@@ -1,6 +1,6 @@
 ## Hi there, Eu sou Josiane Magalhães! 👩‍💻
 
-**Analista e Desenvolvedora Oracle APEX** e **Desenvolvedora Full Stack** apaixonada por tecnologia, inovação e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Elixir**, **Python**, **Data Science** e **Machine Learning**.
+**Analista e Desenvolvedora Full Stack** e **Oracle APEX**, apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Python**, **Data Science** e **Machine Learning**, sempre buscando aplicar as melhores práticas e expandir meu conhecimento.
 
 > O aprendizado é contínuo e sempre haverá um próximo nível.
 
