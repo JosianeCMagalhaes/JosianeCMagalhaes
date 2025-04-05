@@ -2,7 +2,8 @@
 
 **Analista e Desenvolvedora Full Stack** e **Oracle APEX**, apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Python**, **Data Science** e **Machine Learning**, sempre buscando aplicar as melhores práticas e expandir meu conhecimento.
 
-> O aprendizado é contínuo e sempre haverá um próximo nível.
+> Apenas que... busquem conhecimento.  
+> — Et Bilu
 
 ## 🗂️ O que você encontra no meu Github
 
