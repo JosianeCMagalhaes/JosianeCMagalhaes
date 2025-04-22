@@ -2,8 +2,7 @@
 
 **Analista e Desenvolvedora Full Stack** e **Oracle APEX**, apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **Oracle Database (PL/SQL)**, **JavaScript**, **Python**, **Data Science** e **Machine Learning**, sempre buscando aplicar as melhores práticas e expandir meu conhecimento.
 
-> ⁠No caminho para alcançar seus sonhos é preciso aplicar disciplina você precisa aplicar disciplina, mas o mais importante é a consistência porque sem comprometimento você nunca vai começar e sem consistência você nunca conseguirá terminar. </br>
-> *Denzel Washington*
+> ⁠"Você pode criar qualquer coisa: basta escrever." – *C. S. Lewis*
 
 ## 🗂️ O que você encontra no meu Github
 
