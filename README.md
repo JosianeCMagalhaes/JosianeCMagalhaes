@@ -38,7 +38,7 @@
   <!--| **[NextAuth Structure 🔒](https://github.com/JosianeCMagalhaes/next-auth-structure)** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
   | **[Elevador 🏢](https://github.com/JosianeCMagalhaes/elevador)** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |-->
 
-</details>
+</details></details>
 
 <!--details open>  
   <summary><h3>Back-End</h3></summary>  
