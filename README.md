@@ -17,6 +17,15 @@
 ✨ Alguns projetos interessantes que estou desenvolvendo recentemente:
 
 <details open>
+  <summary><h3>Data Science</h3></summary>
+  
+  | Nome do Projeto | Tecnologias Utilizadas |
+  |------|-------|
+  | **[Challenge Alura Store 📊](https://github.com/JosianeCMagalhaes/challenge-alura-store-data-science)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) |
+
+</details>
+
+<details open>
   <summary><h3>Front-End</h3></summary>
   
   | Nome do Projeto | Linguagens e Tecnologias |
