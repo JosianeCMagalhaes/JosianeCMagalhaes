@@ -65,13 +65,9 @@
   | **[App Mobile + REST API 📱](https://github.com/JosianeCMagalhaes/app-mobile-rest-api)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-DRF-092E20?style=flat-square&logo=django&logoColor=white) ![Flet](https://img.shields.io/badge/-Flet-009CFF?style=flat-square&logo=flet&logoColor=white) |
   | **[Kino 🎬](https://github.com/JosianeCMagalhaes/kino)** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |-->
 
-  </details>
+</details>
 
-## 🏅 Badge
 
-<div>
-  <img width="233" src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" alt="Badge do Github">
-</div>
 
 ## 📊 Status de atividades no GitHub 📊
 
