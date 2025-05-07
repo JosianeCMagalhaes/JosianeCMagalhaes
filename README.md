@@ -69,8 +69,8 @@
 
 ## 🏅 Badge
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" width="233" alt="Badge do Github">
+<div>
+  <img width="233" src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" alt="Badge do Github">
 </div>
 
 ## 📊 Status de atividades no GitHub 📊
@@ -100,5 +100,5 @@
 <div align="center">
   
   ![Snake animation](https://github.com/JosianeCMagalhaes/JosianeCMagalhaes/blob/output/github-contribution-grid-snake.svg)
-
+  
 </div>
