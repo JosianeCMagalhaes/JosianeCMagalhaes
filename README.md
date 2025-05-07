@@ -67,6 +67,12 @@
 
   </details>
 
+## Badge 🏅
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" width="233" alt="Badge do Github"><p>
+</div>
+
 ## 📊 Status de atividades no GitHub 📊
 
 <div align="center">
