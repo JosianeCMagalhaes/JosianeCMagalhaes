@@ -67,11 +67,11 @@
 
 </details>
 
-<!--## 🏅 Badge
+<## 🏅 Badge
 
 <div align="center">
   <img width="233" src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" alt="Badge do Github">
-</div-->
+</div>
 
 ## 📊 Status de atividades no GitHub 📊
 
