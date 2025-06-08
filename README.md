@@ -16,7 +16,7 @@
 
 ✨ Alguns projetos interessantes que estou desenvolvendo recentemente:
 
-<details open>
+<!--details open>
   <summary><h3>AWS Serverless Projects</h3></summary>
 
 | Nome do Projeto | Linguagens e Tecnologias |
@@ -25,7 +25,7 @@
 | **[Envio de E-mails 📧](https://github.com/JosianeCMagalhaes/envio-emails)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-FD5750?style=flat-square&logo=serverless&logoColor=white) |
 | **[Acompanhamento de Custo via Telegram 📊](https://github.com/JosianeCMagalhaes/acompanhamento-de-custo-telegram)** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-FD5750?style=flat-square&logo=serverless&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
 
-</details>
+</details-->
 
 <details open>
   <summary><h3>Data Science</h3></summary>
