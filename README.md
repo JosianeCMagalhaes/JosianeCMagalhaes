@@ -88,7 +88,7 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosianeCMagalhaes&theme=nord_dark" alt="Status do Github"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JosianeCMagalhaes&theme=nord&column=6&margin-w=10" alt="Troféus do Github"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JosianeCMagalhaes&theme=nord&column=6&margin-w=" alt="Troféus do Github"/>
 </div>
 
 <h1 align="center">
