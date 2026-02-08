@@ -1,6 +1,6 @@
 ## Hi there, Eu sou Josiane Magalhães! 👩‍💻
 
-**Analista e Desenvolvedora Full Stack**, apaixonada por tecnologia e aprendizado contínuo. Tenho experiência com **Node.js**, **TypeScript**, **AWS**, **bancos de dados relacionais** e **NoSQL** e **Python**. Entusiasta de Data Science e IA, focada em criar soluções eficientes, escaláveis e orientadas a dados, sempre aplicando boas práticas e buscando expandir meu conhecimento.
+**Analista e Desenvolvedora de Sistemas Full Stack, atuo no desenvolvimento e na evolução de soluções digitais com foco em eficiência e confiabilidade. Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Bacharelado em Ciência de Dados, além de pós-graduação em Arquitetura de Software e Proteção e Uso de Dados Pessoais. Possuo certificação Oracle Cloud Infrastructure (OCI Foundations Associate).
 
 > ⁠"Você pode criar qualquer coisa: basta escrever." – *C. S. Lewis*
 
