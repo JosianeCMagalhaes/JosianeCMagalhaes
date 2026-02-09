@@ -1,4 +1,4 @@
-## Hi there, Eu sou Josiane Magalhães! 👩‍💻
+## Josiane Magalhães! 👩‍💻
 
 Analista e Desenvolvedora de Sistemas Full Stack, atuo no desenvolvimento e na evolução de soluções digitais com foco em eficiência e confiabilidade. Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Bacharelado em Ciência de Dados, além de pós-graduação em Arquitetura de Software e Proteção e Uso de Dados Pessoais. Possuo certificação Oracle Cloud Infrastructure (OCI Foundations Associate).
 
@@ -87,12 +87,12 @@ Analista e Desenvolvedora de Sistemas Full Stack, atuo no desenvolvimento e na e
   <img width="233" src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" alt="Github Foundations">
 </div>
 
-## 📊 Status de atividades no GitHub 📊
+## 📊 Status de atividades no GitHub
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosianeCMagalhaes&theme=nord_dark" alt="Status do Github"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JosianeCMagalhaes&theme=nord&column=6&margin-w=10" alt="Troféus do Github"/>
-</div>
+  <!--img src="https://github-profile-trophy.vercel.app/?username=JosianeCMagalhaes&theme=nord&column=6&margin-w=10" alt="Troféus do Github"/>
+</div-->
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
