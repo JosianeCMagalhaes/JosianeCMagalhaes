@@ -78,10 +78,13 @@ Analista e Desenvolvedora de Sistemas Full Stack, atuo no desenvolvimento e na e
 
 </details>
 
-## 🏅 Badge
+## 🏅 Badges
 
 <div align="center">
-  <img width="233" src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" alt="Badge do Github">
+  <img width="466" src="https://github.com/user-attachments/assets/a18f06f9-8958-4600-8ee8-bffc8fedf820" alt="Oracle OCI">
+</div>
+<div align="center">
+  <img width="233" src="https://github.com/user-attachments/assets/91498873-ccc5-47f9-adb4-f6afac74033e" alt="Github Foundations">
 </div>
 
 ## 📊 Status de atividades no GitHub 📊
