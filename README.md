@@ -7,7 +7,7 @@ Analista e Desenvolvedora de Sistemas Full Stack, atuo no desenvolvimento e na e
 ## 🗂️ O que você encontra no meu Github
 
 🚀 Projetos Front-End e Back-End  
-🖥️ Aplicações Full-Stack  
+🖥️ Aplicações Full Stack  
 📚 Estudos e exemplos práticos de algoritmos  
 💡 Projetos de integração e automação  
 📊 Experimentos em Data Science e Machine Learning
